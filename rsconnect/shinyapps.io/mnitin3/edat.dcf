@@ -1,0 +1,11 @@
+name: edat
+title: EDAT
+account: mnitin3
+server: shinyapps.io
+appId: 178572
+bundleId: 818029
+url: https://mnitin3.shinyapps.io/edat/
+when: 1494156494.42973
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|manifest.json|Tabbed_EDA.R
